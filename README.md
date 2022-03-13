@@ -1,8 +1,9 @@
 # Abluka-Sistemi
 
-<p-align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kgfFoBtIu1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+[![Abluka Sistemi](https://img.youtube.com/vi/kgfFoBtIu1A/0.jpg)](https://www.youtube.com/watch?v=kgfFoBtIu1A)
+
+
 
 + Kapı kapama nasıl yapılır ?
 - addons\baristaner_abluka\lua\autorun\config.lua'dan abluka.kapamapozisyonlari kısmına bakıyoruz.Bu bir tablo { } arasına istediğimiz
